@@ -1,0 +1,9 @@
+Handles may contain only digits, upper and lower case letters and underscores
+Emails must have a valid email format
+Passwords must be at least 7 characters long
+Passwords must contain
+At least one upper case letter (A..Z)
+At least one lower case letter (a..z)
+At least one number (0..9)
+Your password and confirmation must match exactly
+

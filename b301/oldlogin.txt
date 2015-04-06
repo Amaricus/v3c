@@ -1,0 +1,22 @@
+
+//from old login:
+		<!--This should point to the tour where they agree to terms then signup-->
+		
+		<!--<form action = "signup.php" METHOD = "POST">
+		<table align = "center" style = "border: 1px solid black;">
+		<tr><td><label for = "newHandle">Desired Handle (Username):</label></td><td><input type = "text" name = "newHandle"></td></tr>
+		<tr><td><label for = "newPass">Desired Passcode:</label></td><td><input type = "password" name = "newPass"></td></tr>
+		<tr><td><label for = "newPass2">Repeat Passcode:</label></td><td><input type = "password" name = "newPass2"></td></tr>
+		<tr><td><label for = "email">Email:</label></td><td><input type = "text" name = "email"></td></tr><
+		<tr><td colspan = "2"><input type = "submit" class = "button_elevate" value = "Join Belle Idee!"></td></tr>
+		</table>
+		</form>
+		</br>
+		-->
+		<!--<form action = "process_login.php" type = "POST">
+		<table align = "center" style = "border: 1px solid black;">
+		<tr><td><label for = "handle">Handle:</label></td><td><input type = "text" name = "handle"></td></tr>
+		<tr><td><label for = "pass">(If no Nymi enter) Passcode:</label></td><td><input type = "password" name = "pass"></td></tr>
+		<tr><td colspan = "2"><input type = "submit" class = "button_implement" value = "Ingress"></td></tr>
+		</table>
+		</form>-->
